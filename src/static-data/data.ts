@@ -57,7 +57,7 @@ export const weddingData = {
     events: [
       {
         time: "AT 18:00",
-        title: "The mystery",
+        title: "Το μυστήριο",
         description:
           "In a small chapel, as the sun sets, something truly beautiful begins.",
         image: "/images/church.jpg",
